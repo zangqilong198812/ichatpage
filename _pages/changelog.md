@@ -15,10 +15,8 @@ iChat 第一个正式版本
 
 #### What's New
 - 提供各种有用的prompt和直接和 ChatGPT 沟通的能力
-- [Changes to Privacy Policy](/privacypolicy)
 
 #### Bug Fixes
-- 空
-- [Changes to Privacy Policy](/privacypolicy)
+- 暂无
 
 <br>
