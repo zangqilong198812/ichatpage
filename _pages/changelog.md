@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 更新日志
-include_in_header: true
+include_in_header: false
 ---
 
 # Changelog

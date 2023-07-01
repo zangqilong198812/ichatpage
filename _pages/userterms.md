@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 用户协议
-include_in_header: false
+include_in_header: true
 ---
 
 # 用户协议
